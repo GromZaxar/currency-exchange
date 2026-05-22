@@ -1,4 +1,4 @@
-!Логотип.png
+<img width="1254" height="1254" alt="Логотип" src="https://github.com/user-attachments/assets/0f4eb744-d1e3-4a3e-82f4-9a2b8bcb30a7" />
 
 # Система обмена валют для онлайн-банка
 
