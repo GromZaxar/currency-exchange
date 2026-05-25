@@ -1,0 +1,1 @@
+[{"Id":1,"UserName":"user","FromCurrency":"USD","ToCurrency":"RUB","FromAmount":234,"ToAmount":20638.800,"CommissionPercent":2.0,"Timestamp":"\/Date(1779443619546)\/"},{"Id":2,"UserName":"user","FromCurrency":"CNY","ToCurrency":"JPY","FromAmount":234,"ToAmount":4632.264,"CommissionPercent":2.0,"Timestamp":"\/Date(1779443701273)\/"}]
